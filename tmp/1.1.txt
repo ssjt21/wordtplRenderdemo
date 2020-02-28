@@ -1,0 +1,44 @@
+1	Sirikanya   	lukkham	12	13	42	20
+2	Thanunchanok   	Jung in	12	13	40	20
+3	Phattharawadee  	Jaroeanwattana	15	15	45	25
+4	Kanyaphak  	 Ruechai	15	15	45	25
+5	Chaweewan  	 Jaising	15	14	41	20
+6	Phakkhapong  	 Samuthsin	5	6	32	15
+7	Phurin  	 Seehanart	9	10	35	13
+8	Lyllill  	 Wittayaprasat	13	14	43	21
+9	Chayaphon  	 Mu o lo	8	8	33	20
+10	Pudis  	 Sirisurayut	15	15	42	20
+11	Kittikun  	 Tongtidrum	7	8	27	18
+12	Papitchaya  	 Wassatara	9	10	28	18
+13	Chanathip  	 Nakrit	9	10	36	20
+14	Pannarut  	 Sakunwichakwut	5	6	29	10
+15	Kanyaphak  	 Ar pasaengphet	11	10	31	21
+16	Sunisa  	 Wiwasuk	7	8	28	15
+17	Kangumpa  	 Yaemngam	13	14	42	15
+18	Pattaraporn  	 Lobbumrung	15	15	44	24
+19	Supattra  	 Jumnong	14	13	40	23
+20	Pannipa 	 Ramanoo	14	13	38	20
+21	Suradech  	Sae chao	13	14	40	21
+22	Kwintida 	 Subsuwan	13	14	37	22
+23	Warintorn  	Sa ngunpong	10	10	29	19
+24	Thepmongkhol 	 Hinrang	7	8	32	15
+25	Mahasamoot  	Patane	13	13	41	23
+26	Jinnapat  	 Jaikwang	7	8	26	15
+27	Natwat  	Dojda	6	8	30	15
+28	Thamajaree  	Trukhakij	14	14	43	24
+29	Rinrada  	Sae koo	11	12	38	20
+30	Wachirapat  	Muangrod	11	12	34	20
+31	Nachanan  	Rawajai	10	11	40	20
+32	Phapangkorn  	Chankeeree	4	3	22	13
+33	Maneephan  	Wichaiban	11	10	37	20
+34	Pawanrat   	Wanida	10	10	31	20
+35	Prapavit 	 Kwannimit	10	10	31	20
+36	Rachata  	Pruktiwan	10	11	32	20
+37	Jiraphat  	Hutsadee	9	10	39	19
+38	Chindanai  	Boonkerd	8	9	34	17
+39	Pakornkit 	 Sap a ran	8	9	37	17
+40	Kornwit  	Panjampee	4	3	20	12
+41	Siraprapa  	Vararat	13	14	36	24
+42	Nunnaphat  	la-um-porn	10	11	32	20
+43	Nichtawan   	Chuyingsakuntip	13	13	42	23
+
